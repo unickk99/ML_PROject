@@ -1,0 +1,26 @@
+# Data handling
+numpy==1.26.2
+pandas==2.1.1
+
+# Data visualization
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# Machine learning
+scikit-learn==1.3.1
+xgboost==1.7.6
+
+# Deep learning (optional if you use)
+tensorflow==2.15.0
+torch==2.1.0
+
+# NLP (optional)
+transformers==4.44.0
+datasets==2.12.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+notebook==7.5.3
+
+# Other useful packages
+joblib==1.3.2
